@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YamarFr17
+- 👋 Hi, I’m Yamar
 - 👀 I’m interested in hacking and web developpment
 - 🌱 I’m currently learning at INSI Antananarivo Madagascar
 - 💞️ I’m looking to collaborate on ...
