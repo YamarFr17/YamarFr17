@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yamar
-- 👀 I’m interested in hacking and web developpment
+- 👀 I’m interested in challenge CTF
 - 🌱 I’m currently learning at INSI Antananarivo Madagascar
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
